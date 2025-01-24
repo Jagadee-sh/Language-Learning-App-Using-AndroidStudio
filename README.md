@@ -1,5 +1,5 @@
 # Language-Learning-App-Using-AndroidStudio
-##this is an example of language app creation ......for better undertanding.(need more then go through my codes)
+##this is an example of language app creation ......for better undertanding.(need more then go through my codes given in above files)
 
 #Developing a language learning app for Android
  we will explore the process of developing a language learning app for Android. Language learning apps are becoming increasingly popular as they provide users with the opportunity to learn new languages in an engaging and interactive manner. As a software developer, creating a language learning app can be a rewarding project that helps users expand their knowledge and skills. By following this guide, you'll learn the essential steps to develop a language learning app for Android.
